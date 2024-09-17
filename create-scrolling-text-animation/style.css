@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    width:100%;
+    height: 100%;
+}
+body{
+    background-color: black;
+}
+#page1{
+    width:100%;
+    height: 100%;
+}
+#page1,#page2,#page3{
+    width:100%;
+    height: 100%;
+}
+
+
+#page2 h1{
+    font-size: 4vw;
+    color:white;
+}
